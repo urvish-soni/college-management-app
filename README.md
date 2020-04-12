@@ -1,1 +1,1 @@
-# SAM-College-Digital-Android-App-College-Project
+# College-Digital-Android-App-College-Project
